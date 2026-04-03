@@ -103,9 +103,10 @@
 									"referenceName": "sinkJson",
 									"type": "DatasetReference",
 									"parameters": {
-										"container": "ingestion",
+										"container": "raw",
+										"folder": "ingestion",
 										"file": {
-											"value": "@{item().file}.json",
+											"value": "@{item().value}.json",
 											"type": "Expression"
 										}
 									}
