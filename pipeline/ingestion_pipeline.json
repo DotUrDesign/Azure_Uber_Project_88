@@ -106,7 +106,7 @@
 										"container": "raw",
 										"folder": "ingestion",
 										"file": {
-											"value": "@{item().value}.json",
+											"value": "@{item().file}.json",
 											"type": "Expression"
 										}
 									}
