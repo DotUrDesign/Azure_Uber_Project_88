@@ -29,7 +29,8 @@
 					"dataset": {
 						"referenceName": "sourceFileNames",
 						"type": "DatasetReference"
-					}
+					},
+					"firstRowOnly": false
 				}
 			}
 		],
