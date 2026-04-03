@@ -1,0 +1,9 @@
+{
+	"name": "uber-proj-df-88",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4940c0c-6b36-4440-8117-63a294210071",
+		"tenantId": "c2ade505-1511-49e8-a72d-73e493f6f28d"
+	}
+}
