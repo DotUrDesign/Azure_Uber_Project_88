@@ -28,11 +28,7 @@
 					},
 					"dataset": {
 						"referenceName": "sourceFileNames",
-						"type": "DatasetReference",
-						"parameters": {
-							"container": "raw",
-							"file": "files_array.json"
-						}
+						"type": "DatasetReference"
 					}
 				}
 			}
